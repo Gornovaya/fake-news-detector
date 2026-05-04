@@ -86,38 +86,5 @@ nltk.download('wordnet')
 nltk.download('webtext')
 ```
 
-## Project Structure
-fake-news-detector/
-
-├── data/
-
-│   ├── train.csv
-
-│   ├── test.csv
-
-│   └── my_train.csv
-
-├── notebooks/
-
-│   ├── logistic_regression.ipynb
-
-│   ├── mlp_model.ipynb
-
-│   └── lstm_model.ipynb
-
-├── models/
-
-│   ├── logistic_model.pkl
-
-│   ├── mlp_model.h5
-
-│   └── le_classes.npy
-
-├── requirements.txt
-
-├── README.md
-
-└── LICENSE
-
 
 
